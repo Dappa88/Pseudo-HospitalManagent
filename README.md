@@ -1,6 +1,6 @@
 # Pseudo-HospitalManagement
 
-![Pseudo-HospitalManagement](https://www.example.com/pseudo-hospitalmanagement.png)
+![Pseudo-HospitalManagement](https://th.bing.com/th/id/OIP.js_m--7-FZoWCNrtRA-kQwHaFj?pid=ImgDet&w=2048&h=1536&rs=1)
 
 Welcome to the Pseudo-HospitalManagement repository! This project is a Python-based backend application designed to mimic a hospital management system. It employs a CSV file as a pseudo backend to store data related to staff and patients. The project offers CRUD (Create, Read, Update, Delete) functionality for managing hospital records efficiently.
 
@@ -31,7 +31,7 @@ To run the Pseudo-HospitalManagement application locally, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/pseudo-hospitalmanagement.git
+git clone https://github.com/Dappa88/pseudo-hospitalmanagement.git
 ```
 
 2. Navigate to the project directory:
